@@ -1,0 +1,7 @@
+.container-main {
+  height: 100vh;
+  padding: 50px;
+}
+.header-main {
+  justify-content: space-between;
+}

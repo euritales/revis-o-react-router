@@ -1,0 +1,8 @@
+.btn-dark-blue {
+  background-color: #1b1a34;
+  color: white;
+  border-radius: 5px;
+  font-size: 18px;
+  /* font-weight: bold; */
+  padding: 15px 28px;
+}
